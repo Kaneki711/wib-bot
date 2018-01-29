@@ -1,0 +1,2 @@
+# wib-bot
+Bot protect
